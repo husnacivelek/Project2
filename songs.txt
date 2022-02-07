@@ -1,0 +1,52 @@
+İki Keklik;Erkan Oğur;1001;Türk Halk;1996
+Yağmur;Erkin Oray;1002;Rock;1971
+Olmalı Mı Olmamalı Mı;Bülent Ortaçgil;1003;Pop;1974
+Tamirci Çırağı;Cem Karaca;1004;Rock;1975
+Gözyaşlarımızı Bitti Mi Sandın;MFÖ;1005;Rock;1986
+Hayat Katarı;Erkin Koray;1006;Rock;1989
+Hatasız Kul Olmaz;Orhan Gencebay;1007;Türk Halk;1976
+Estarabim;Erkin Koray;1008;Rock;1991
+Fesuphanallah;Erkin Koray;1009;Rock;1974
+Mor Perşembe;Cem Karaca;1010;Rock;1977
+Bir Teselli Ver;Orhan Gencebay;1011;Arabesk;1972
+Yirmi Beşinci Kısım;Ahmet Sinan Hatipoğlu;1012;Türk Halk;1993
+Dönence;Barış Manço;1013;Pop;1981
+Batsın Bu Dünya;Orhan Gencebay;1014;Arabesk;1973
+Güllerin İçinden;MFÖ;1015;Rock;1984
+İhtarname;Cem Karaca;1016;Rock;1975
+Safinaz;Cem Karaca;1017;Rock;1978
+Fabrika Kızı;Alpay;1018;Pop;1988
+Değirmenler;Bülent Ortaçgil;1019;Pop;1987
+Namus Belası;Cem Karaca;1020;Rock;1975
+Gidelim Buralardan;Nazan Öncel;1021;Pop;1995
+Ayrılanlar İçin;Timur Selçuk;1022;Pop;1974
+Gülpembe;Bariş Manço;1023;Pop;1991
+Bu Sabah Yağmur Var İstanbul'da;MFÖ;1024;Rock;1984
+Uyku Kardeşim;Fikret Kızılok;1025;Pop;1983
+Binboğanın Kızı;Barış Manço;1026;Pop;1971
+Yalnızlar Garı;MFÖ;1027;Rock;1987
+Yollar;Teoman;1028;Pop;1996
+Tam Ortasındayım;MFÖ;1029;Rock;1987
+Yuh Yuh;Cemali;1030;Pop;1997
+Her Gece;Mirkelam;1031;Pop;1995
+Delikanlım;Yıldız Tilbe;1032;Pop;1994
+Darmadağın;Edip Akbayram;1033;Country;1998
+Bir Kulunu Çok Sevdim;İbrahim Tatlıses;1034;Country;1982
+Yağmur;Bülent Ortaçgil;1035;Pop;1974
+Ben İnsan Değil Miyim;İbrahim Tatlıses;1036;Pop;1988
+Nar Çiçeği;Candan Erçetin;1037;Pop;1995
+Git;Sezen Aksu;1038;Pop;1986
+Sen Ağlama;Sezen Aksu;1039;Pop;1984
+Padişah;Sibel Can;1040;Pop;1997
+Sen De Bizdensin;Müslüm Gürses;1041;Arabesk;1992
+Esrarlı Gözler;Müslüm Gürses;1042;Arabesk;1980
+Uzak;Ahmet Sinan Hatipoğlu;1043;Türk Halk;1993
+Her An Her Şey Olabilir;Azer Bülbül;1044;Arabesk;1995
+Öyle Bir Geçer Zaman Ki;Ekin Koray;1045;Rock;1973
+Dağlarda Kar Olsaydım;Müslüm Gürses;1046;Arabesk;1993
+Entellektüel;Fikret Kızılok;1047;Pop;1992
+Eşkıya Dünyaya Hükümdar Olmaz;Edip Akbayram;1048;Country;1998
+Seher Yeli;Erkan Oğur;1049;Türk Halk;2000
+Yolcu;Neşet Ertaş;1050;Türk Halk;2003
+Acem Kızı;Neşet Ertaş;1051;Türk Halk;1999
+Firuze;Sezen Aksu;1052;Pop;1982
